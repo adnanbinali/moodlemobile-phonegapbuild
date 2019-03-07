@@ -6,13 +6,13 @@
         versionCode = "36000"
         android-versionCode="36000"
         version   = "1.1.0">
-    <name>Moodle</name>
+    <name>IRILMS</name>
 
     <description>
         Renaissance mobile app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://iri-sa.com" email="info@iri-sa.com">
         Renaissance Mobile team
     </author>
 
